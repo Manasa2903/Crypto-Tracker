@@ -1,0 +1,18 @@
+.currency-tracker {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.heading {
+  color: #00e7ff;
+}
+.table-heading {
+  color: white;
+}
+.table-container {
+  border: #00e7ff 4px solid;
+  padding: 15px;
+  border-radius: 5px;
+}
